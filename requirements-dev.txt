@@ -1,0 +1,5 @@
+pytest==7.4.1
+moto==4.2.2
+black==23.7.0
+isort==5.12.0
+bandit==1.7.5
